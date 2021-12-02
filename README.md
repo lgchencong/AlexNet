@@ -6,5 +6,5 @@
 - train1.py训练网络模型
 - splile_data.py数据处理
 - model.py模型构建
-- AlexNet.pth自己训练好模型参数
+- pedict.py用来验证模型
 
